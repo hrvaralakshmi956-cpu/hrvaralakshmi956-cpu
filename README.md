@@ -43,7 +43,8 @@ Apart from coding, I enjoy **creating and sharing educational coding content on 
 
 - **GitHub:** [hrvaralakshmi956-cpu](https://github.com/hrvaralakshmi956-cpu)
 - **LinkedIn:** [Varalakshmamma H R](https://www.linkedin.com/in/varalakshmamma-hr/)
-
+- **Email:** [hrvaralakshmi956@gmail.com](mailto:hrvaralakshmi956@gmail.com)
+- **Instagram:** [CodeDoseDaily](https://www.instagram.com/codedosedaily/)
 ### 🌱 Currently Learning
 
 I am strengthening my **Python programming, object-oriented programming, SQL, database concepts, and web development** skills. I am also practicing problem-solving and preparing for entry-level IT opportunities.
